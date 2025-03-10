@@ -10,11 +10,6 @@ Novotarije is an iOS news application built with SwiftUI. It fetches news articl
 - **Search History**: View and manage your recent search history.
 - **Share Articles**: Share articles with others using the share sheet.
 
-## Screenshots
-
-![News Tab](screenshots/news_tab.png)
-![Search Tab](screenshots/search_tab.png)
-![Bookmark Tab](screenshots/bookmark_tab.png)
 
 ## Installation
 
@@ -60,6 +55,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - SwiftUI for the UI framework.
 - All open-source libraries and tools used in this project.
 
-## Contact
 
-For any questions or feedback, please contact Adonis Borneo Salihi at [your-email@example.com].
+
+
